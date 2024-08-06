@@ -1,0 +1,17 @@
+Contains the basic information and a key for the map
+
+These limits should be defined in Configs
+
+P = Player Spawn, Max: 1
+S = Shop, Max: 2
+E = Encounter, Max: 15
+C = Chest, Max: 5
+T = Teleport, Max: 1
+M = Monster, Max: 10
+
+The player can walk over any of these Locations, but are blocked by walls (#)
+
+If the player walks over the location, the location is removed IF it is a Chest, Monster or Encounter
+Shops and Teleports are not removed, as Shops are re-usable and Teleports are one-time use
+
+In order to keep the location of shops, when the player walks over a shop, it moves to a random location on the map

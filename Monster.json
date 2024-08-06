@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Knight",
+    "health": 100,
+    "weapon": "2001",
+    "drops": {},
+    "abilities": {},
+    "skills": {},
+    "resistances": {},
+    "sprite": "knight.png"
+  },
+  {
+      "name": "Goblin",
+      "health": 50,
+      "weapon": "2001",
+      "drops": {},
+      "abilities": {},
+      "skills": {},
+      "resistances": {},
+      "sprite": "goblin.png"
+  }
+]

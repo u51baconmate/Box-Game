@@ -1,0 +1,13 @@
+    {
+        "item_id": "6017",
+        "name": "Titan Forge Rogue Helmet",
+        "description": "A helmet forged by the titans themselves, for rogues.",
+        "base_value": 75,
+        "rarity": "legendary",
+        "weight": 5.0,
+        "item_type": "accessory",
+        "recipe": null,
+        "craft_amount": 0,
+        "carry_limit": 1,
+        "sprite": "titan_rogue_helmet.png"
+    }
